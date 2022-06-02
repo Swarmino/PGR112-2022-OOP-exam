@@ -1,0 +1,20 @@
+Is Tetris Russian?
+1
+GAME
+---
+Does the actor Nick Offerman own a woodworking shop?
+1
+MOVIE
+---
+Did the character of Iceman die in the movie Top Gun?
+0
+MOVIE
+---
+Has the game series Uncharted been made into a movie?
+1
+GAME
+---
+Was the line “I am your father” ever said on the set of the empire strikes back?
+0
+MOVIE
+---
